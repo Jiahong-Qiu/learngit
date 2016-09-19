@@ -1,4 +1,5 @@
-﻿ergrege dfgbtr
+﻿% This is a user dict
+ergrege dfgbtr
 中文主张词语		38
 
 1. {perception|感知}	22	
